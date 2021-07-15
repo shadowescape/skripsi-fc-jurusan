@@ -1,0 +1,67 @@
+G001	Keluar flek	 
+G002	Keluar darah	 
+G003	Keluar darah yang berkepanjangan	 
+G004	Mual dan muntah berlebihan	 
+G005	Nyeri pada ari-ari	 
+G006	Pusing yang berkepanjangan	 
+G007	Nyeri saat buang air kecil	 
+G008	Perdarahan pervaginam	 
+G009	Perubahan gejala kehamilan secara drastis	 
+G010	Rasa nyeri dan sakit pada panggul dan perut	 
+G011	Disminore (rasa nyeri selama haid)	 
+G012	Haid tidak teratur / bulan 2kali	 
+G013	Keputihan dan bau	 
+G014	Nyeri perut	 
+G015	Nyeri saat berhubungan intim	 
+G016	Pendarahan dalam jumlah banyak	 
+G017	Bengkak di pangkal paha	 
+G018	Benjolan atau pembengkakan di vagina	 
+G019	Rasa nyeri dan sakit pada panggul	 
+G020	Sakit dan nyeri di bagian intens saat aktivitas	 
+G021	Kram perut sebelum atau selama haid	 
+G022	Mengalami susah tidur	 
+G023	Nyeri pada punggung	 
+G024	Pusing dan sakit kepala	 
+G025	Hilang selera makan	 
+G026	Menggigil	 
+G027	Nyeri ulu hati	 
+G028	Tidak haid kurang lebih 2 bulan	 
+G029	Dehidrasi	 
+G030	Hipotensi atau tekanan darah rendah	 
+G031	Jantung berdebar	 
+G032	Mengeluarkan air liur secara berlebihan	 
+G033	Merasa stres, bingung, cemas	 
+G034	Sangat sensitif terhadap aroma	 
+G035	Keluar cairan	 
+G036	Nyeri pada perut bagian bawah	 
+G037	Gatal-gatal di bagian alat kelamin luar	 
+G038	Keputihan, peradangan, dan kemerahan pada genitalia eksterna	 
+G039	Nyeri pada bagian intens	 
+G040	Keluar air dibekas operasi	 
+G041	Nyeri sebelah kiri	 
+G042	Sakit pinggang berkepanjangan	 
+G043	Tidak haid dan tes kehamilan fositif	 
+G044	Buang air kecil sakit	 
+G045	Haid tidak teratur	 
+G046	Haid tidak berhenti	 
+G047	Sakit pinggang	 
+G048	Vagina gatal	 
+G049	Merasa depresi	 
+G050	Nyeri pada pinggul	 
+G051	Nyeri setelah berhubungan intim	 
+G052	Tubuh mudah kelelahan	 
+G053	Demam	 
+G054	Gatal-gatal dibagian perut dan kaki	 
+G055	Mual dan muntah biasa	 
+G056	Nyeri perut secara tiba-tiba	 
+G057	Sering merasa pusing	 
+G058	Dada terasa teregang	 
+G059	Masalah buang air kecil dan besar	 
+G060	Nyeri pada pinggul, panggung, dan paha	 
+G061	Haid banyak	 
+G062	Keluar darah dibagian intens	 
+G063	Nyeri haid	 
+G064	Nyeri saat terjadi penekanan pada panggul	 
+G065	Nyeri panggul setelah berhubungan intim	 
+G066	Terasa tertekan pada bagian bawah usus besar	 
+G067	Perut terasa penuh dan kembung

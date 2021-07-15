@@ -1,0 +1,96 @@
+R1
+JIKA Keluar flek
+     DAN Keluar darah
+     DAN Keluar darah yang berkepanjangan
+     DAN Mual dan muntah berlebihan
+     DAN Nyeri pada ari-ari
+     DAN Pusing yang berkepanjangan
+     DAN Nyeri saat buang air kecil
+     DAN Perdarahan pervaginam
+     DAN Perubahan gejala kehamilan secara drastis
+     DAN Rasa nyeri dan sakit pada panggul dan perut
+MAKA Abortus
+
+R2
+JIKA Disminore (rasa nyeri selama haid)
+     DAN Haid tidak teratur / bulan 2kali
+     DAN Keputihan dan bau
+     DAN Nyeri perut
+     DAN Nyeri saat berhubungan intim
+     DAN Pendarahan dalam jumlah banyak
+MAKA Adenomiosis
+
+R3
+JIKA Bengkak di pangkal paha
+     DAN Benjolan atau pembengkakan di vagina
+     DAN Rasa nyeri dan sakit pada panggul
+     DAN Sakit dan nyeri di bagian intens saat aktivitas
+MAKA Bartholinitis
+
+R4
+JIKA Kram perut sebelum atau selama haid
+     DAN Mengalami susah tidur
+     DAN Nyeri pada punggung
+     DAN Pusing dan sakit kepala
+MAKA Gangguan Haid
+
+R5
+JIKA Hilang selera makan
+     DAN Menggigil
+     DAN Nyeri ulu hati
+     DAN Tidak haid kurang lebih 2 bulan
+     DAN Dehidrasi
+     DAN Hipotensi atau tekanan darah rendah
+     DAN Jantung berdebar
+     DAN Mengeluarkan air liur secara berlebihan
+     DAN Merasa stres, bingung, cemas
+     DAN Sangat sensitif terhadap aroma
+MAKA Hyperemesis Gravidarum
+
+R6
+JIKA Keluar cairan
+     DAN Nyeri pada perut bagian bawah
+     DAN Gatal-gatal di bagian alat kelamin luar
+     DAN Keputihan, peradangan, dan kemerahan pada genitalia eksterna
+     DAN Nyeri pada bagian intens
+MAKA Infeksi Vagina
+
+R7
+JIKA Keluar air dibekas operasi
+     DAN Nyeri sebelah kiri
+     DAN Sakit pinggang berkepanjangan
+     DAN Tidak haid dan tes kehamilan fositif
+MAKA Kehamilan Ektopik
+
+R8
+JIKA Buang air kecil sakit
+     DAN Haid tidak teratur
+     DAN Haid tidak berhenti
+     DAN Sakit pinggang
+     DAN Vagina gatal
+     DAN Merasa depresi
+     DAN Nyeri pada pinggul
+     DAN Nyeri setelah berhubungan intim
+     DAN Tubuh mudah kelelahan
+MAKA Kista Cokelat
+
+R9
+JIKA Demam
+     DAN Gatal-gatal dibagian perut dan kaki
+     DAN Mual dan muntah biasa
+     DAN Nyeri perut secara tiba-tiba
+     DAN Sering merasa pusing
+     DAN Dada terasa teregang
+     DAN Masalah buang air kecil dan besar
+     DAN Nyeri pada pinggul, panggung, dan paha
+MAKA Kista Ovarium
+
+R10
+JIKA Haid banyak
+     DAN Keluar darah dibagian intens
+     DAN Nyeri haid
+     DAN Nyeri saat terjadi penekanan pada panggul
+     DAN Nyeri panggul setelah berhubungan intim
+     DAN Terasa tertekan pada bagian bawah usus besar
+     DAN Perut terasa penuh dan kembung
+MAKA Mioma Uteri

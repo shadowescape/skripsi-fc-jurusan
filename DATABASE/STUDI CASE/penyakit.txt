@@ -1,0 +1,10 @@
+P01	Abortus
+P02	Adenomiosis
+P03	Bartholinitis
+P04	Gangguan Haid
+P05	Hyperemesis Gravidarum
+P06	Infeksi Vagina
+P07	Kehamilan Ektopik
+P08	Kista Cokelat
+P09	Kista Ovarium
+P10	Mioma Uteri
